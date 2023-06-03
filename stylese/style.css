@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+}
+.header-container{
+    background-image: url(/images/1553x669.jpg);
+    background-repeat: no-repeat;
+     height: 669px;
+} 
+
+section{
+    margin-top: 130px;
+}
+.header-sub-container{
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    margin-left: 307px;
+    margin-top: 274px;
+    text-align: center;
+}  
+.header-title{
+    color: #FFFFFF;
+    font-weight: 700;
+font-size: 65px;
+margin-bottom: 20px;
+} 
+.header-description{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+ 
+ 
+.btn-primary{
+    color: #FFFFFF;
+    padding: 16px 20px;
+    border: 0;
+    
+background: #FF5959;
+border-radius: 5px;
+}
+
+/* donation amount style */
+.donate-container{
+    display: flex;
+    justify-content: center;
+}
+.donate-us{
+width: 765px;
+ text-align: center;
+
+
+ 
+}
+.title-btn{
+    margin-bottom: 20px;
+    font-weight: 700;
+font-size: 45px;
+}
+.donate-us-top{
+      display: flex;
+      justify-content: center;
+}
+.donate-us-description{
+     width: 500px;
+     margin-bottom: 50px;
+}
+
+/* defrant amount section  */
+.donate-amount{
+    display: flex;
+    justify-content: space-around;
+
+}
+.donate-amount{
+    margin-bottom: 70px;
+}
+.donate-ditales{
+  padding: 45px 45px;
+
+background: #FAFAFA;
+border-radius: 5px;
+}
+#amount-section{
+    background: #FFEEEE;
+border: 2px solid #FF5959;
+}
+#other{
+    border: 0;
+    text-align: center;
+    margin-bottom: 9px;
+}
+.donate-us .btn-primary{
+    margin-top: 30px;
+}
+
+
+/* our plans  */
+.our-plan{
+    display: flex;
+    justify-content: center;
+}
+.plan-description{
+    width: 500px;
+    text-align: center;
+}
+
+.donate-planing{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+}
+
+/* our card  */
+#our-card1{
+    background: rgba(79, 157, 166, 0.1);
+}
+#our-card2{
+    background: rgba(255, 89, 89, 0.1);
+}
+#our-card3{
+     
+    background: rgba(213, 221, 102, 0.1);
+}
+.our-donat{
+    width: 360px;
+    height: 352px;
+    padding: 23px;
+    border-radius: 5px;
+}
+.our-donat img{
+margin-top: 63px;
+}
+.plan-containt{
+    display: flex;
+    justify-content: center;
+}
+.plan-donate{
+    width: 1300px;
+}
+.plan-title{
+    margin-top: 30px;
+    color: #121212;
+    font-weight: 600;
+font-size: 24px;
+}
+.plan-descus{
+    margin-top: 16px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+
+/* distribution donation  */
+.distrivution-contant{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.dis-sub-contant{
+    width: 493px;
+height: 374px;
+}
+.dis-sub-contant img{
+    width: 356px;
+height: 377px;
+}
+.dis-title{
+    color: #121212;
+    font-weight: 700;
+font-size: 45px;
+margin-bottom: 20px;
+}
+.dis-sumury-1{
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+.dis-sumury-2{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+
+/* get update ----------------------- */
+.get-update-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.get-update{
+    width: 691px;
+height: 130px;
+text-align: center;
+}
+.update-ditailes{
+    color: #707070;
+    font-size: 18px;
+}
+
+
+
+/* email section  */
+.get-update-container2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+.email-sec{
+    background: #FFF4D6;
+    width: 809px;
+    height: 200px;
+   
+     display: flex;
+     align-items: center;
+      justify-content: center;
+  
+     
+}
+.email-sec input{
+    width: 275px;
+height: 48px; 
+    border: 0;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+     
+}
+.email-sec button{
+    background: #FF5959;
+border-radius: 0px 5px 5px 0px;
+ 
+}
+
+/* footer section  */
+.footer-title{
+    font-family: 'Lobster';
+    font-size: 36px;
+    font-style: italic;
+    color: #FF5959;
+}
+.do{
+    font-family: 'Manrope';
+    font-size: 14px;
+    font-style: normal;
+    color: #D9DBE1;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background: #0B0D17;
+    height: 150px;
+}
+ 
